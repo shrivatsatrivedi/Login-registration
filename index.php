@@ -31,7 +31,7 @@
             <input type ="password" name ="password" id="password" placeholder="Password" required>
             <label for ="password">Password</label>
         </div>
-        <input type ="Submit" class="btn" value="Sign Up" name ="signup">
+            <input type ="Submit" class="btn" value="Sign Up" name ="signup">
         </form>
         <p class ="or">
             -----------or-----------</p>
